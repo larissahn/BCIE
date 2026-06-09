@@ -46,6 +46,8 @@ tidyverse · janitor · lubridate · scales · stringr · ggplot2
 
 “Datos que transforman: Lo que los datos abiertos revelan sobre cómo el BCIE convierte financiamiento en desarrollo”.
 
+> **Nota post-publicación:** ver [ERRATUM.md](./ERRATUM.md) para una aclaración metodológica sobre el caso ICE detectada en revisión externa. No modifica las conclusiones del trabajo.
+
 ## Cómo citar
 
 Acosta Salgado, L. G. (2026).  
